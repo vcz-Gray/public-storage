@@ -1,0 +1,27 @@
+{
+  "notice": "These assets accompany source-based editorial discussion. Public availability does not grant a reuse licence for third-party work. Credits below do not imply endorsement.",
+  "assets": [
+    {
+      "file": "rhcr-root-d44817d26fb2.png",
+      "kind": "original_explanatory_diagram_not_official_poster",
+      "source": "https://www.kcrg.com/2026/10/08/why-cedar-rapids-theatre-company-is-walking-away-ai-generated-art/",
+      "credit": "Facts reported by Libbie Randall / KCRG, 2026-10-08; independent diagram. No article photograph or official poster reproduced."
+    },
+    {
+      "file": "lightwall-root-f7ef82ed795d.jpg",
+      "kind": "work_detail_editorial_quotation",
+      "source": "https://www.ccaemuseum.org/events/lightwall",
+      "original_image": "https://images.squarespace-cdn.com/content/v1/67b91964ba2f5049633bd213/3210e3f3-fac0-436d-9cdd-c4019097c6b6/L1030188.jpg?format=1500w",
+      "credit": "California Center for the Arts Museum; same photograph distributed in Emit Light / PRWeb Lightwall press release. Individual photographer not identified.",
+      "scope": "Prism detail only; not a full installation or evidence of live reaction. Third-party rights retained; no blanket licence or permission claimed."
+    },
+    {
+      "file": "karaoke-root-a89b7c77581a.png",
+      "kind": "cropped_demo_opening_screen_editorial_quotation",
+      "source": "https://vimeo.com/1203312429",
+      "credit": "Fusion Karaoke / Lorenzo Minneci / Vimeo",
+      "changes": "Cropped public demo opening thumbnail; presenter inset/desktop bars excluded, credit footer added.",
+      "scope": "Opening UI only, not a transformation sequence. No audio or full video copied. Third-party rights retained; no blanket licence or permission claimed."
+    }
+  ]
+}
